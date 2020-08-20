@@ -1,3 +1,8 @@
+# Criptomonedas-cotizador / cryptocurrency converter
+
+## Deploy netlify
+### Too see the project:
+ - [CLICK HERE](https://trusting-euler-81bf2e.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
